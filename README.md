@@ -1,10 +1,8 @@
-# magisk-gsi-overlay
-Magisk module to inject overlays for PHH-Treble GSI images
+# A54 GSI Overlay
+Magisk module to inject the Samsung Galaxy A54's GSI overlay, for Trebledroid based GSIs
 
-# Inject your own overlay
-1. Download this entire repo as a zip
-2. Extract the zip content somewhere
-3. Replace `system/product/overlay` contents with your own overlays
-4. Modify `build.prop` as needed
-5. Zip the entire thing back with `zip -r9 module.zip * -x .git README.md **placeholder`
-6. Push the `module.zip` to your phone & flash
+# Testing
+This repo was made to test the overlay as it's being adjusted. You can open an issue if something goes wrong, or you can reccomend a change.
+
+# Installation
+Go to the releases page, download the Magisk Module & install. Also works in KernelSU
