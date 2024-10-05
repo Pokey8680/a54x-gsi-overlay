@@ -6,3 +6,6 @@ This repo was made to test the overlay as it's being adjusted. You can open an i
 
 # Installation
 Go to the releases page, download the Magisk Module & install. Also works in KernelSU
+
+# Source
+To check the source code of the overlay, check my vendor_hardware_overlay repo on GitHub.
