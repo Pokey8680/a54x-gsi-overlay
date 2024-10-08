@@ -1,4 +1,7 @@
-# v1.0.4  [Oct 8 2024]
+# v1.0.5 - 8.Oct.24
+- Sync source code
+
+# v1.0.4 - 8.Oct.24
 - Enable 25W fast charging
 - Add update.json so you can update the module directly from Magisk/KernelSU app
 
