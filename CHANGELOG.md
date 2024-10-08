@@ -1,3 +1,7 @@
+# v1.0.4
+- Enable 25W fast charging
+- Add update.json so you can update the module directly from Magisk/KernelSU app
+
 # v1.0.3
 - Fix Always-On Display (AOD)
   - Wouldn't refresh before, now it does
