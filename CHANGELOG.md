@@ -1,4 +1,4 @@
-# v1.0.4
+# v1.0.4  [Oct 8 2024]
 - Enable 25W fast charging
 - Add update.json so you can update the module directly from Magisk/KernelSU app
 
