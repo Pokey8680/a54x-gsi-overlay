@@ -1,3 +1,6 @@
+# v1.0.6 - 9 Oct 24
+- Enable burn-in protection by shifting elements of the UI (Like on stock firmware)
+
 # v1.0.5 - 8.Oct.24
 - Sync source code
 
