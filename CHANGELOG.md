@@ -1,3 +1,6 @@
+# v1.0.7 - 12 Oct 24
+- Fix arrays in config.xml
+
 # v1.0.6 - 9 Oct 24
 - Enable burn-in protection by shifting elements of the UI (Like on stock firmware)
 - Fix update.json
