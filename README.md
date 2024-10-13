@@ -8,7 +8,8 @@ This is a Magisk/KernelSU module that is made to test the GSI overlay for the Sa
 - GSIs used:
   - Trebledroid CI AOSP,
   - Ponces' AOSP,
-  -  LineageOS 21 (Sept build)
+  -  Andy Yan's LineageOS 21 (Sept build)
+  -  mytja's EvolutionX
 # Installation
 - Download the module from the releases page.
 - You need to be rooted with Magisk or KernelSU.
@@ -16,6 +17,9 @@ This is a Magisk/KernelSU module that is made to test the GSI overlay for the Sa
   - If you use KernelSU, you may have to enable the option "Umount modules by default" in the manager settings.
 - Reboot your phone
 - Enjoy!
+
+# Bugs/Issues
+- The status bar is not bottom aligned on mytja's EvolutionX
 
 # Source
 To check the source code of the overlay and possibly suggest changes, you can find it at my vendor_hardware_overlay repository, here on GitHub.
