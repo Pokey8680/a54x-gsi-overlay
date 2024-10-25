@@ -20,6 +20,8 @@ This is a Magisk/KernelSU module that is made to test the GSI overlay for the Sa
 - Enjoy!
 
 # Bugs/Issues
+- Auto Brightness does not appear on most GSIs
+
 - The status bar is not bottom aligned on mytja's EvolutionX
 
 - The status bar is not bottom aligned on FlexUI Android 14
