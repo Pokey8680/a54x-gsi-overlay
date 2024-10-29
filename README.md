@@ -11,7 +11,7 @@ This is a Magisk/KernelSU module that is made to test the GSI overlay for the Sa
   - Ponces' AOSP,
   -  Andy Yan's LineageOS 21 (Sept build)
   -  mytja's EvolutionX
-  -  FlexUI Android
+  -  FlexUI 
 ## Android 15
   - Ponces' AOSP 
 # Installation
