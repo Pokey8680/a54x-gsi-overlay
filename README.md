@@ -5,7 +5,7 @@ This is a Magisk/KernelSU module that is made to test the GSI overlay for the Sa
  **Testers: Pokey8680 (Me)**
 - Model Name: SM-A546B
 - Firmware Binary: A546BXXS9CXH7
-- GSIs used:
+GSIs used:
 ## Android 14
   - Trebledroid CI AOSP,
   - Ponces' AOSP,
