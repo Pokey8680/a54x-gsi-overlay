@@ -9,7 +9,7 @@ This is a Magisk/KernelSU module that is made to test the GSI overlay for the Sa
 ## Android 14
   - Trebledroid CI AOSP,
   - Ponces' AOSP,
-  -  Andy Yan's LineageOS 21 (Sept build)
+  -  Andy Yan's LineageOS 21
   -  mytja's EvolutionX
   -  FlexUI 
 ## Android 15
