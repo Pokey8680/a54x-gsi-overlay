@@ -29,5 +29,9 @@ This is a Magisk/KernelSU module that is made to test the GSI overlay for the Sa
 
 - The status bar is not bottom aligned on FlexUI Android 14
 
+- FOD still does not work.
+
+- Vibration is still buggy, it will only do a small click instead of prolonged vibration 
+
 # Source
 To check the source code of the overlay and possibly suggest changes, you can find it at my vendor_hardware_overlay repository, here on GitHub.
