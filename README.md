@@ -6,11 +6,14 @@ This is a Magisk/KernelSU module that is made to test the GSI overlay for the Sa
 - Model Name: SM-A546B
 - Firmware Binary: A546BXXS9CXH7
 - GSIs used:
+## Android 14
   - Trebledroid CI AOSP,
   - Ponces' AOSP,
   -  Andy Yan's LineageOS 21 (Sept build)
   -  mytja's EvolutionX
-  -  FlexUI Android 14
+  -  FlexUI Android
+## Android 15
+  - Ponces' AOSP 
 # Installation
 - Download the module from the releases page.
 - You need to be rooted with Magisk or KernelSU.
