@@ -1,3 +1,6 @@
+# News
+The overlay has been merged into the main Trebledroid repo! Thank you all so much!
+
 # About this repository
 This is a Magisk/KernelSU module that is made to test the GSI overlay for the Samsung Galaxy A54 5G, as it's being developed and tested.
 
